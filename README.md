@@ -1,4 +1,4 @@
-# ZeladoriaPessoal
+# ZeladoriaPessoal.
 README — Zeladoria Urbana API
 
 Sistema backend desenvolvido com ASP.NET Core utilizando Clean Architecture, Entity Framework Core e PostgreSQL.
